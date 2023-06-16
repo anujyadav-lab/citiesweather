@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/citiesweather/static/css/main.c08e9780.css",
+    "main.js": "/citiesweather/static/js/main.71cc654f.js",
+    "static/media/landscape-3369304_1920.jpg": "/citiesweather/static/media/landscape-3369304_1920.89b06f06b0bac428efaa.jpg",
+    "index.html": "/citiesweather/index.html",
+    "main.c08e9780.css.map": "/citiesweather/static/css/main.c08e9780.css.map",
+    "main.71cc654f.js.map": "/citiesweather/static/js/main.71cc654f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c08e9780.css",
+    "static/js/main.71cc654f.js"
+  ]
+}
